@@ -13,6 +13,8 @@
 		260B00E429924C9000C1927E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 260B00E329924C9000C1927E /* Preview Assets.xcassets */; };
 		260B00EB2992C9DD00C1927E /* ThankU.swift in Sources */ = {isa = PBXBuildFile; fileRef = 260B00EA2992C9DD00C1927E /* ThankU.swift */; };
 		260B00ED2992CAED00C1927E /* Orders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 260B00EC2992CAED00C1927E /* Orders.swift */; };
+		26EF54B42998BD1B0013D767 /* photopicer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26EF54B32998BD1B0013D767 /* photopicer.swift */; };
+		26EF54B82998D42C0013D767 /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26EF54B72998D42C0013D767 /* test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		260B00E329924C9000C1927E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		260B00EA2992C9DD00C1927E /* ThankU.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThankU.swift; sourceTree = "<group>"; };
 		260B00EC2992CAED00C1927E /* Orders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orders.swift; sourceTree = "<group>"; };
+		26EF54B32998BD1B0013D767 /* photopicer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = photopicer.swift; sourceTree = "<group>"; };
+		26EF54B72998D42C0013D767 /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +43,8 @@
 		260B00D029924C9000C1927E = {
 			isa = PBXGroup;
 			children = (
+				26EF54B72998D42C0013D767 /* test.swift */,
+				26EF54B32998BD1B0013D767 /* photopicer.swift */,
 				260B00EC2992CAED00C1927E /* Orders.swift */,
 				260B00EA2992C9DD00C1927E /* ThankU.swift */,
 				260B00DB29924C9000C1927E /* SystemLine */,
@@ -144,6 +150,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				260B00DF29924C9000C1927E /* ContentView.swift in Sources */,
+				26EF54B82998D42C0013D767 /* test.swift in Sources */,
+				26EF54B42998BD1B0013D767 /* photopicer.swift in Sources */,
 				260B00EB2992C9DD00C1927E /* ThankU.swift in Sources */,
 				260B00ED2992CAED00C1927E /* Orders.swift in Sources */,
 				260B00DD29924C9000C1927E /* SystemLineApp.swift in Sources */,
